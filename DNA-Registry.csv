@@ -1,4 +1,9 @@
 Name,Email,URL,Block start,Block end
+Mitre,cve-assign@mitre.org,http://cve.mitre.org/cve/,DWF-YEAR-0001,DWF-YEAR-9999
+Mitre,cve-assign@mitre.org,http://cve.mitre.org/cve/,DWF-YEAR-10000,DWF-YEAR-19999
+Mitre,cve-assign@mitre.org,http://cve.mitre.org/cve/,DWF-YEAR-20000,DWF-YEAR-49999
+Mitre,cve-assign@mitre.org,http://cve.mitre.org/cve/,DWF-YEAR-30000,DWF-YEAR-39999
+Mitre,cve-assign@mitre.org,http://cve.mitre.org/cve/,DWF-YEAR-40000,DWF-YEAR-49999
 Larry W. Cashdollar,larry0@me.com,http://www.vapidlabs.com/,DWF-YEAR-77000,DWF-YEAR-77999
 Darius Freamon,darius.freamon@gmail.com,https://dariusfreamon.wordpress.com/,DWF-YEAR-78000,DWF-YEAR-78999
 Reed Loden,reed@reedloden.com,Various,DWF-YEAR-79000,DWF-YEAR-79999
