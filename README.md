@@ -3,7 +3,7 @@ DWF (Distributed Weakness Filing) Number Authority Project
 
 This project is run by a (currently) anonymous group of security researchers and depends on community involvement/agreement in order to function as intended.
 
-The goal of this project is to allow well-known security researchers and company security teams to assign DWF-style identifiers to security vulnerabilities with minimal over head.
+The goal of this project is to allow well-known security researchers and company security teams to assign DWF-style identifiers to security vulnerabilities with minimal overhead.
 
 The process for this is simple:
 
