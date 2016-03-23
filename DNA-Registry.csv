@@ -1,20 +1,20 @@
-Name,Email,URL,Block start,Block end
-Mitre,cve-assign@mitre.org,http://cve.mitre.org/cve/,DWF-YEAR-0001,DWF-YEAR-9999
-Mitre,cve-assign@mitre.org,http://cve.mitre.org/cve/,DWF-YEAR-10000,DWF-YEAR-19999
-Mitre,cve-assign@mitre.org,http://cve.mitre.org/cve/,DWF-YEAR-20000,DWF-YEAR-49999
-Mitre,cve-assign@mitre.org,http://cve.mitre.org/cve/,DWF-YEAR-30000,DWF-YEAR-39999
-Mitre,cve-assign@mitre.org,http://cve.mitre.org/cve/,DWF-YEAR-40000,DWF-YEAR-49999
-Larry W. Cashdollar,larry0@me.com,http://www.vapidlabs.com/,DWF-YEAR-77000,DWF-YEAR-77999
-Darius Freamon,darius.freamon@gmail.com,https://dariusfreamon.wordpress.com/,DWF-YEAR-78000,DWF-YEAR-78999
-Reed Loden,reed@reedloden.com,Various,DWF-YEAR-79000,DWF-YEAR-79999
-Kurt Seifried,kurt@seifried.org,http://www.seifried.org/,DWF-YEAR-80000,DWF-YEAR-80999
-Tenable,vulnreport@tenable.com,http://www.tenable.com/security/,DWF-YEAR-82000,DWF-YEAR-82999
-Adam Caudill,adam@adamcaudill.com,https://adamcaudill.com/,DWF-YEAR-83000,DWF-YEAR-83999
-Shubham Shah,admin@shubh.am,https://shubh.am/,DWF-YEAR-84000,DWF-YEAR-84999
-Zachary Wikholm,zwikholm@cari.net,http://blog.cari.net,DWF-YEAR-85000,DWF-YEAR-85999
-halfdog,me@halfdog.net,http://www.halfdog.net/Security/,DWF-YEAR-86000,DWF-YEAR-86999
-Colette Chamberland,colette@wordfence.com, http://www.wordfence.com,DWF-YEAR-87000,DWF-YEAR-87999
-Taylor Hornby,taylor@defuse.ca,https://defuse.ca/,DWF-YEAR-88000,DWF-YEAR-88999
-Patrick Uiterwijk,patrick@puiterwijk.org,https://patrick.uiterwijk.org/,DWF-YEAR-89000,DWF-YEAR-89999
-Eldar Marcussen,wireghoul@gmail.com,http://www.justanotherhacker.com/,DWF-YEAR-90000,DWF-YEAR-90999
-0x3d5157636b525761,0x3d5157636b525761@gmail.com,securitygodmode.blogspot.com,DWF-YEAR-91000,DWF-YEAR-91999
+"Name","Email","Valid Assigners","URL","Block start","Block end"
+"Mitre","cve-assign@mitre.org","cve-assign@mitre.org","http://cve.mitre.org/cve/","DWF-YEAR-0001","DWF-YEAR-9999"
+"Mitre","cve-assign@mitre.org","cve-assign@mitre.org","http://cve.mitre.org/cve/","DWF-YEAR-10000","DWF-YEAR-19999"
+"Mitre","cve-assign@mitre.org","cve-assign@mitre.org","http://cve.mitre.org/cve/","DWF-YEAR-20000","DWF-YEAR-49999"
+"Mitre","cve-assign@mitre.org","cve-assign@mitre.org","http://cve.mitre.org/cve/","DWF-YEAR-30000","DWF-YEAR-39999"
+"Mitre","cve-assign@mitre.org","cve-assign@mitre.org","http://cve.mitre.org/cve/","DWF-YEAR-40000","DWF-YEAR-49999"
+"Larry W. Cashdollar","larry0@me.com","larry0@me.com","http://www.vapidlabs.com/","DWF-YEAR-77000","DWF-YEAR-77999"
+"Darius Freamon","darius.freamon@gmail.com","darius.freamon@gmail.com","https://dariusfreamon.wordpress.com/","DWF-YEAR-78000","DWF-YEAR-78999"
+"Reed Loden","reed@reedloden.com","reed@reedloden.com","Various","DWF-YEAR-79000","DWF-YEAR-79999"
+"Kurt Seifried","kurt@seifried.org","kurt@seifried.org","http://www.seifried.org/","DWF-YEAR-80000","DWF-YEAR-80999"
+"Tenable","vulnreport@tenable.com","vulnreport@tenable.com","http://www.tenable.com/security/","DWF-YEAR-82000","DWF-YEAR-82999"
+"Adam Caudill","adam@adamcaudill.com","adam@adamcaudill.com","https://adamcaudill.com/","DWF-YEAR-83000","DWF-YEAR-83999"
+"Shubham Shah","admin@shubh.am","admin@shubh.am","https://shubh.am/","DWF-YEAR-84000","DWF-YEAR-84999"
+"Zachary Wikholm","zwikholm@cari.net","zwikholm@cari.net","http://blog.cari.net","DWF-YEAR-85000","DWF-YEAR-85999"
+"halfdog","me@halfdog.net","me@halfdog.net","http://www.halfdog.net/Security/","DWF-YEAR-86000","DWF-YEAR-86999"
+"Colette Chamberland","colette@wordfence.com","colette@wordfence.com"," http://www.wordfence.com","DWF-YEAR-87000","DWF-YEAR-87999"
+"Taylor Hornby","taylor@defuse.ca","taylor@defuse.ca","https://defuse.ca/","DWF-YEAR-88000","DWF-YEAR-88999"
+"Patrick Uiterwijk","patrick@puiterwijk.org","patrick@puiterwijk.org","https://patrick.uiterwijk.org/","DWF-YEAR-89000","DWF-YEAR-89999"
+"Eldar Marcussen","wireghoul@gmail.com","wireghoul@gmail.com","http://www.justanotherhacker.com/","DWF-YEAR-90000","DWF-YEAR-90999"
+"0x3d5157636b525761","0x3d5157636b525761@gmail.com","0x3d5157636b525761@gmail.com","securitygodmode.blogspot.com","DWF-YEAR-91000","DWF-YEAR-91999"
